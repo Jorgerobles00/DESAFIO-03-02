@@ -1,8 +1,20 @@
 body {
-    background-color: ;
+    background-color:rgb(40, 150, 136);
 }
 
+.titulo-restaurante{
+text-align: center;
+color: rgb(252, 234, 62);
+font-size: 50px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
 
 img {
+text-align: center;
+border: 10px solid, white;
+margin: 10px;
+}
 
+.contenedor-imagen {
+    text-align: center;
 }
